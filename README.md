@@ -1,1 +1,3 @@
-# deploy_js_to_github_pages
+# deploy static js projects to github_pages
+
+See deploy.js
